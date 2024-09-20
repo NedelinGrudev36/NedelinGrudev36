@@ -1,47 +1,34 @@
-<h2 align="left">Hi 👋! My name is Nedelin and I'm a Back-End developer from Bulgaria.</h2>
+# 💻 Portfolio of [Your Name]
 
-###
+Welcome to my GitHub! I'm a passionate software developer with experience in various technologies. I love learning and building things that solve real-world problems. Here you'll find a collection of projects that I've worked on, demonstrating my skills in various programming languages and frameworks.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NedelinGrudev36&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NedelinGrudev36&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🛠️ Skills
 
-###
+- **C#** - Backend development, ASP.NET, MVC
+- **JavaScript** - Frontend development, React, Node.js
+- **HTML & CSS** - Responsive design, Bootstrap, Flexbox, Grid
+- **SQL** - Database design, Queries, MySQL, SQL Server
+- **C++** - Object-oriented programming, Data structures, Algorithms
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-</div>
+## 📂 Projects
 
-###
+Here are some of my key projects showcasing my skills:
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### 1. [Project Name](https://github.com/yourusername/project1)
+- **Technologies**: C#, SQL
+- **Description**: Brief description of what the project does.
 
-###
+### 2. [Project Name](https://github.com/yourusername/project2)
+- **Technologies**: JavaScript, HTML, CSS
+- **Description**: Brief description of what the project does.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NedelinGrudev36&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NedelinGrudev36&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### 3. [Project Name](https://github.com/yourusername/project3)
+- **Technologies**: C++, SQL
+- **Description**: Brief description of what the project does.
 
-###
+## 📫 Contact
 
-<br clear="both">
+Feel free to reach out to me via:
 
-<img src="https://raw.githubusercontent.com/NedelinGrudev36/NedelinGrudev36/output/snake.svg" alt="Snake animation" />
-
-###
+- **Email**: your.email@example.com
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
