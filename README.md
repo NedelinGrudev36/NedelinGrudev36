@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nedelin</h1>
-<h3 align="center">💡 Програмист в развитие, с интерес към C#, уеб и софтуерни приложения</h3>
+<h3 align="center">💡 Development programmer, with an interest in C#, web and software applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nedelingrudev36&label=Profile%20views&color=0e75b6&style=flat" alt="nedelingrudev36" /> </p>
 
